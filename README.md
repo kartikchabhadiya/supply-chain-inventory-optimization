@@ -2,9 +2,12 @@
 
 An Excel-based inventory planning system built on the Kaggle **"Supply Chain Logistics Problem"** dataset (9,215 order-level shipment records across 772 SKUs and 7 plants). The workbook calculates Safety Stock, Reorder Point (ROP), Economic Order Quantity (EOQ) and Inventory Turnover for every SKU, flags items needing restock, ranks SKUs with an ABC (Pareto) analysis, and lets a manager stress-test the plan against lead-time delays and demand spikes with an interactive What-If engine — all fully formula-driven, zero hardcoded results.
 
-📊 **[Download / view the workbook](.supply-chain-inventory-optimization.xlsx)**
-  **[Download / view the workbook](.supply-chain-inventory-optimization (2).xlsx)**
-  **[Dashboard](images/dashboard_screenshot.png)**
+📊 **[Download / view the workbook](https://raw.githubusercontent.com/kartikchabhadiya/supply-chain-inventory-optimization/main/.supply-chain-inventory-optimization.xlsx)**
+📊 **[Download / view the workbook (v2)](https://raw.githubusercontent.com/kartikchabhadiya/supply-chain-inventory-optimization/main/.supply-chain-inventory-optimization%20(2).xlsx)**
+
+![Dashboard Preview](https://raw.githubusercontent.com/kartikchabhadiya/supply-chain-inventory-optimization/main/dashboard_screenshot.png)
+
+---
 ---
 
 ## 🔍 What it does
